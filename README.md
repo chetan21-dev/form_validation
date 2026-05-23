@@ -28,7 +28,7 @@ A simple **Employee Management System** built with **React.js** that allows user
 
 ## Project Screenshot
 
-![Image](./public/assets/output.jpeg)
+![Image](/react_form/public/assets/output.jpeg)
 
 ---
 
